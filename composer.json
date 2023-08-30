@@ -14,6 +14,6 @@
             "email": "jemerson6989@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
