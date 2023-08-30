@@ -1,0 +1,19 @@
+{
+    "name": "jemer/event-dispatcher",
+    "description": "create, manages, fires events during your project runtime",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Jemer\\EventDispatcher\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jemer",
+            "email": "jemerson6989@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
